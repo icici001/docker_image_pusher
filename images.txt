@@ -1,1 +1,1 @@
-qinglong
+whyour/qinglong:latest
